@@ -97,6 +97,14 @@ nav .navlinks li a{
     background: #222;
 }
 
+.ksu {
+    background: url('ksu.svg');
+    height: 20px;
+    width: 20px;
+    display: block;
+    /* Other styles here */
+}
+
 .container .hero-pic{
     width: 300px;
     height: 300px;

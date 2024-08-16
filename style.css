@@ -101,6 +101,7 @@ nav .navlinks li a{
     max-width: 500px;
     display: flex;
     flex-direction: column;
+    color:#e5e5e5;
 }
 
 .container .hero-pic{

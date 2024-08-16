@@ -90,8 +90,8 @@ nav .navlinks li a{
 
 .education {
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    /* justify-content: space-around; */
+    /* align-items: center; */
     padding-top:4rem;
     padding-bottom:4rem;
     background: #222;

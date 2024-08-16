@@ -97,6 +97,12 @@ nav .navlinks li a{
     background: #222;
 }
 
+.wrappermine{
+    width:1280px;
+    max-width: 95%;
+    margin: 0 auto;
+}
+
 .container .hero-pic{
     width: 300px;
     height: 300px;

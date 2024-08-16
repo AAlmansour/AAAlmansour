@@ -97,10 +97,10 @@ nav .navlinks li a{
     background: #222;
 }
 
-.wrappermine{
-    width:80px;
-    max-width: 9%;
-    margin: 0 auto;
+.education-text{
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
 }
 
 .container .hero-pic{
